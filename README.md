@@ -1,5 +1,8 @@
 # Simon-Game
 
+## Instructions
+→ Store all .mp3 s in "sounds" folder
+
 ## A Simon game made using 
 1. HTML
 2. CSS
